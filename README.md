@@ -10,11 +10,11 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there I'm Vihanga Nethmin</h1>
 
 ###
 
-<h3 align="left">👩‍💻  Hello I'am VIhanga Nethmin</h3>
+<!-- <h3 align="left">👩‍💻  Hello I'am VIhanga Nethmin</h3> -->
 
 ###
 
